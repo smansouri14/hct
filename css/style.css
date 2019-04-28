@@ -283,3 +283,6 @@ p {
   background: #fff;
   color: #333;
 }
+.center {
+  text-align: center;
+}
