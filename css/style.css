@@ -89,6 +89,9 @@ p {
 .p-3 {
   padding: 3rem;
 }
+.my-2 {
+  margin: 2rem 0;
+}
 
 .btn {
   display: inline-block;
@@ -176,18 +179,18 @@ p {
 /* Section: news */
 
 #news {
-  height: 50vh;
+  height: 60vh;
 }
 
 #home .items {
   display: flex;
-  padding: 2rem;
+  padding: 0rem;
 }
 
 #home .items .item {
   flex: 1;
   text-align: center;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 #home .items .item i {
@@ -195,6 +198,13 @@ p {
   padding: 1rem;
   border-radius: 50%;
   margin-bottom: 1rem;
+}
+
+#news ul {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40%;
+  text-align: left;
 }
 
 /* Section: About */
@@ -213,8 +223,9 @@ p {
 /* info */
 #info {
   display: flex;
-  padding: 1rem;
+  padding: 0rem;
   margin: 0;
+  height: 40vh;
 }
 
 #info img {
@@ -225,6 +236,10 @@ p {
 }
 
 .link:hover {
+  color: blue;
+}
+
+.amazon {
   color: blue;
 }
 /* Section: Contact */

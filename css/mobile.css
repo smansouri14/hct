@@ -69,6 +69,10 @@
   #contact .img {
     height: 200px;
   }
+
+  #info {
+    height: 60vh;
+  }
   /* Keeps height format correct for mobile devices */
   #experience {
     height: 0%;
