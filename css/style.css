@@ -249,6 +249,11 @@ p {
 .amazon {
   color: blue;
 }
+
+.quote {
+  font-family: "Cuprum", sans-serif;
+  font-size: 1.25rem;
+}
 /* Section: Contact */
 #contact {
   display: flex;
