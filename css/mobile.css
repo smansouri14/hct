@@ -77,4 +77,12 @@
   #experience {
     height: 0%;
   }
+
+  .item {
+    border-bottom: 1px solid #ffcf40;
+  }
+
+  .item:last-child {
+    border-bottom: none;
+  }
 }
