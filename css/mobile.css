@@ -90,4 +90,10 @@
     padding-bottom: 20%;
     border-bottom: 5px solid #ffcf40;
   }
+  .paypal {
+    margin-right: 0 !important;
+    margin-left: 4.5rem !important;
+    margin-top: 1rem;
+    margin-bottom: 1rem !important;
+  }
 }

@@ -237,7 +237,9 @@ p {
 }
 
 .paypal {
-  text-align: center;
+  margin-right: 0 !important;
+  margin-left: 6.5rem !important;
+  margin-top: 2rem;
 }
 
 /* info */
