@@ -85,4 +85,9 @@
   .item:last-child {
     border-bottom: none;
   }
+
+  .border {
+    padding-bottom: 20%;
+    border-bottom: 5px solid #ffcf40;
+  }
 }
