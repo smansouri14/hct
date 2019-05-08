@@ -92,8 +92,12 @@
   }
   .paypal {
     margin-right: 0 !important;
-    margin-left: 4.5rem !important;
+    margin-left: 2rem !important;
     margin-top: 1rem;
     margin-bottom: 1rem !important;
+  }
+
+  ul li {
+    align-items: center;
   }
 }
