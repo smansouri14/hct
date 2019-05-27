@@ -186,7 +186,7 @@ p {
 /* Section: news */
 
 #news {
-  height: 60vh;
+  height: 65vh;
 }
 
 #home .items {
@@ -223,6 +223,7 @@ p {
 .schedule:hover {
   color: blue;
 }
+
 /* Section: About */
 #about {
   display: flex;

@@ -97,7 +97,8 @@
     margin-bottom: 1rem !important;
   }
 
-  ul li {
-    align-items: center;
+  #news ul {
+    margin-left: 15%;
+    text-align: justify;
   }
 }
