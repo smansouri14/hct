@@ -59,17 +59,17 @@ p {
 }
 
 .m-heading {
-  font-size: 2rem;
+  font-size: 2.5rem;
   margin-top: 1rem;
   margin-bottom: 0.75rem;
   line-height: 1.1;
 }
 
 .s-heading {
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-top: 1rem;
   margin-bottom: 0.75rem;
-  line-height: 1.1;
+  line-height: 1.3;
 }
 
 .lead {
